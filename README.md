@@ -7,6 +7,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=Luffytaro22&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
+## 
+<p align="center">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Luffytaro22&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffytaro22&layout=compact&hide_border=true&theme=algolia&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Luffytaro22&theme=algolia&show_icons=true&count_private=true&theme=algolia&hide_border=true&hide=issues" alt="candida18"  /></p>
+</p>
 <!--
 **Luffytaro22/Luffytaro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
