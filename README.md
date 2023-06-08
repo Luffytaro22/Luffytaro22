@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there, Manuel Sánchez here 👋
+<img src="https://profile-counter.glitch.me/Luffytaro22/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/Luffytaro22.svg?style=social&label=Followers)](https://github.com/Luffytaro22?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Manuel!;I'm+a+Software+Developer...;I'm+a+Microverse+Student!;)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Luffytaro22&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <!--
 **Luffytaro22/Luffytaro22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
