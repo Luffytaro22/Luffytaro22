@@ -37,6 +37,9 @@ I'm a full-stack software development student at Microverse that loves to learn 
 ![Jest](https://img.shields.io/badge/-Jest-000000?logo=jest&logoColor=C21325&logoWidth=20&style=flat)
 ![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&logoWidth=20&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux-000000?logo=redux&logoColor=764ABC&logoWidth=20&style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-000000?logo=ruby&logoColor=CC342D&logoWidth=20&style=flat)
+![RubyGems](https://img.shields.io/badge/-RubyGems-000000?logo=rubygems&logoColor=E9573F&logoWidth=20&style=flat)
+![RubyOnRails](https://img.shields.io/badge/-Ruby%20On%20Rails-000000?logo=rubyonrails&logoColor=D30001&logoWidth=20&style=flat)
 <br>
 <br>
 <br>
