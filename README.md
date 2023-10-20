@@ -40,6 +40,7 @@ I'm a full-stack software development student at Microverse that loves to learn 
 ![Ruby](https://img.shields.io/badge/-Ruby-000000?logo=ruby&logoColor=CC342D&logoWidth=20&style=flat)
 ![RubyGems](https://img.shields.io/badge/-RubyGems-000000?logo=rubygems&logoColor=E9573F&logoWidth=20&style=flat)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby%20On%20Rails-000000?logo=rubyonrails&logoColor=D30001&logoWidth=20&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=4169E1&logoWidth=20&style=flat)
 <br>
 <br>
 <br>
