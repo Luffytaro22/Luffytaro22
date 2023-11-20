@@ -53,9 +53,7 @@ I'm a full-stack software development student at Microverse that loves to learn 
 
 # Connect with me 🌌
 [![GitHub](https://img.shields.io/badge/-GitHub-191970?logo=github&logoColor=white&logoWidth=20&style=for-the-badge)](https://github.com/Luffytaro22)
-[![Facebook](https://img.shields.io/badge/Facebook-191970?logo=facebook&logoColor=1877F2&logoWidth=20&style=for-the-badge)](https://www.facebook.com/manuel.sanchezsierra/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-191970?logo=linkedin&logoColor=0A66C2&logoWidth=20&style=for-the-badge)](https://www.linkedin.com/in/manuel-alejandro-sanchez-sierra-4b358b14a/)
-[![Twitter](https://img.shields.io/badge/Twitter-191970?logo=twitter&logoColor=1DA1F2&logoWidth=20&style=for-the-badge)](https://twitter.com/Luffytaro_san22)
 [![LeetCode](https://img.shields.io/badge/LeetCode-191970?logo=leetcode&logoColor=FFA116&logoWidth=20&style=for-the-badge)](https://leetcode.com/manuel-/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-191970?logo=hackerrank&logoColor=00EA64&logoWidth=20&style=for-the-badge)](https://www.hackerrank.com/manuelsanchez059?hr_r=1)
 
