@@ -11,10 +11,10 @@
 # About me 🍜
 <p><img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/574565690976141685/273FDADA6812C06699E7C226538BD05BF9DEE91D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Lain" width="400px" /></p>
 
-I'm a full-stack software development student at Microverse that loves to learn new things about the teck industry!
+I’m a certified Full-stack developer from Microverse, an online software development school. I have coded every day with other developers around the world and learned the important skills of communication and teamwork, and how to work remotely and collaboratively.
 - 🎓 Microverse Software Development School.
-- 📰 Learning Advanced JavaScript and Webpack.
-- 💻 Interested in developing web pages with my own style.
+- 📰 JavaScript, React/Redux, and Ruby on Rails Proficiency.
+- 💻 Interested in developing web pages with a unique style.
 - 📱 Always looking for new projects.
 - ❓ Ask me about web developing.
 - 📫 How to reach me: [manuelsanchez059@gmail.com](mailto:[manuelsanchez059@gmail.com)
@@ -30,6 +30,7 @@ I'm a full-stack software development student at Microverse that loves to learn 
 ![CSS](https://img.shields.io/badge/-CSS3-000000?logo=css3&logoColor=1572B6&logoWidth=20&style=flat)
 ![Sass](https://img.shields.io/badge/-Sass-000000?logo=sass&logoColor=CC6699&logoWidth=20&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?logo=bootstrap&logoColor=7952B3&logoWidth=20&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?logo=tailwindcss&logoColor=06B6D4&logoWidth=20&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?logo=visual-studio-code&logoColor=007ACC&logoWidth=20&style=flat)
 ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032&logoWidth=20&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?logo=github&logoColor=white&logoWidth=20&style=flat)
